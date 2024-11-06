@@ -4,7 +4,7 @@ font-family: Bai Janjuree;
 } 
 
 Footer {
-  back ground-color: black;
+  background-color: black;
   color: white;
   position: fixed;
   botton:0;
@@ -12,7 +12,7 @@ Footer {
   heigher: 2 ten;
 
   Footer P {
-  text-aling:center;
+  text-align:center;
   font-size:0,6mm;
   margin-tap:0,5mm;
 }
